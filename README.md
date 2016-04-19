@@ -1,2 +1,2 @@
 # TwitterMap
-A twitter map
+A twitter map using RDS, Java and Tomcat.
